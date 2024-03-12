@@ -39,3 +39,4 @@ accordionItems.forEach((item) => {
   });
 });
 
+
