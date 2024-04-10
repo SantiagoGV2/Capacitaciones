@@ -1,9 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-body{
-  line-height: 1.5;
-  font-family: 'Poppins', sans-serif;
-}
 *{
   margin:0;
   padding:0;
@@ -121,15 +116,7 @@ ul{
   .accordion-item {
     border-bottom: 1px solid #ccc;
   }
-  .carousel-item {
-    
-  
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+ 
   .accordion-header {
     display: flex;
     justify-content: space-between;
@@ -360,7 +347,7 @@ html {
     transform: translateY(0px);
   }
   to {
-    transform: translateY(-2000px);
+    transform: translateY(-5005px);
   }
 }
 
